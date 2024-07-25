@@ -1,3 +1,5 @@
+package DSAPractice;
+
 public class PrintNameInArray {
     public static void main(String[] args) {
         String[] friendsName = {"Anshu","Ayan","Kunal","Amit"};

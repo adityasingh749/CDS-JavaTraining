@@ -1,3 +1,5 @@
+package DSAPractice;
+
 class SwapOfTwoVariable {
 
     public static void main(String a[]) {

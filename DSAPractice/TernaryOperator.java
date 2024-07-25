@@ -1,3 +1,5 @@
+package DSAPractice;
+
 import java.util.*;
 
 public class TernaryOperator {
